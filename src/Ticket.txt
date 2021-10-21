@@ -1,0 +1,13 @@
+
+----------TRAIN TICKET-------------------
+                               
+ADULT: 2         
+CHILD: 2         
+FROM: HYLLIE
+TO: OXIE
+TIME DEPARTURE: 13:00
+TIME ARRIVAL: 13:30
+PRICE: 400kr
+                               
+                               
+--------------------------------------------
